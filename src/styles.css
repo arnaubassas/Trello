@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.toDoList {
+    background-color: white;
+    width: 225px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    justify-content: center;
+}
+
+.topList {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botList {
+    justify-content: space-between;
+}
+
+.optionsList {
+    padding: 5px;
+
+}
